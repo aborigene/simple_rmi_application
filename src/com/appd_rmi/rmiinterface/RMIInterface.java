@@ -1,4 +1,4 @@
-package com.mkyong.rmiinterface;
+package com.appd_rmi.rmiinterface;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

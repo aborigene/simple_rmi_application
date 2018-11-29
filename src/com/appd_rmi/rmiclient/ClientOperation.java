@@ -1,4 +1,4 @@
-package com.mkyong.rmiclient;
+package com.appd_rmi.rmiclient;
 
 import java.net.MalformedURLException;
 import java.rmi.Naming;
@@ -7,7 +7,7 @@ import java.rmi.RemoteException;
 
 import javax.swing.JOptionPane;
 
-import com.mkyong.rmiinterface.RMIInterface;
+import com.appd_rmi.rmiinterface.RMIInterface;
 
 public class ClientOperation {
 	private static RMIInterface look_up;
